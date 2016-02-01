@@ -1,5 +1,11 @@
-obs-test (0.0.1-1) unstable; urgency=medium
+obs-test (0.0.2-1) unstable; urgency=medium
+
+  * test
+
+ -- Henning Heinold <henning@itconsulting-heinold.de>  Mon, 01 Feb 2016 23:05:47 +0100
+
+obs-test (0.0.2-1) unstable; urgency=medium
 
   * Initial release. (Closes: #XXXXXX)
 
- --  <henning@rhein2>  Mon, 01 Feb 2016 22:59:57 +0100
+ -- Henning Heinold <henning@itconsulting-heinold.de>  Mon, 01 Feb 2016 22:59:57 +0100
