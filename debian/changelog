@@ -1,9 +1,17 @@
+obs-test (0.0.4-1) unstable; urgency=medium
+
+  [ Henning Heinold ]
+  * small test package
+  * correct changelog
+
+ -- Henning Heinold <henning@itconsulting-heinold.de>  Tue, 09 Feb 2016 17:03:33 +0100
+
 obs-test (0.0.3-1) unstable; urgency=medium
 
   [ Henning Heinold ]
   * moo
 
- -- Henning Heinold  <henning@itconsulting-heinold.de>  Tue, 02 Feb 2016 23:07:59 +0100
+ -- Henning Heinold <henning@itconsulting-heinold.de>  Tue, 02 Feb 2016 23:07:59 +0100
 
 obs-test (0.0.2-1) unstable; urgency=medium
 
